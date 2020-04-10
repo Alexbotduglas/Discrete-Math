@@ -1,4 +1,5 @@
-# Algorithm-Bellman-Ford-in-C++-
+# Algorithm-Bellman-Ford-in-C++
+# Finding a path in a loaded graph
 
 #include "stdafx.h"
 #include <iostream>
