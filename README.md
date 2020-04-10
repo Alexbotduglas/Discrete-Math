@@ -1,5 +1,5 @@
 # Algorithm-Bellman-Ford-in-C++
-# Finding a path in a loaded graph
+# Finding the maximum path in a loaded graph
 
 #include "stdafx.h"
 #include <iostream>
